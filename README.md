@@ -1,4 +1,2 @@
 #python_crawler
-fuck me
-
-ggg
+i want to write a crawler program.
